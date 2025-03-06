@@ -1,0 +1,19 @@
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+.hero {
+    background: url('hero-bg.jpeg') no-repeat center center/cover;
+    color: white;
+    text-align: center;
+    padding: 100px 0;
+}
+
+#contact {
+    text-align: center;
+}
+
+form {
+    max-width: 500px;
+    margin: auto;
+}
